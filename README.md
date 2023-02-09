@@ -1,5 +1,5 @@
 # Shop 
-An application to get or search information about Pokemons Creatures.
+An application to buy or sell products using Firebase Real time database.
 
 ## Features:
 ```
