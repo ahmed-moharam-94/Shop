@@ -1,5 +1,5 @@
 # Shop 
-An application to get or search information about Pokemons.
+An application to get or search information about Pokemons Creatures.
 
 ## Features:
 ```
